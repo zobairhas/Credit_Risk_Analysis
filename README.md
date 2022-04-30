@@ -18,7 +18,7 @@ I oversampled data via RandomOverSample and SMOTE algorithms using credit card c
 - Accuracy score of Random Oversampling using ```RandomOVersampler```
 - Accuracy score was 0.657 which means that the model was correct 65.7% of the time.
 
-![image](https://user-images.githubusercontent.com/44425379/166125433-788102ba-2d4f-4560-9ccb-615c7c9ceb5f.png)
+![image](https://user-images.githubusercontent.com/44425379/166125724-5931eab6-c39a-44f1-aca4-090cee5de9ca.png)
 
 - Accuracy score of SMOTE Oversampling using ```SMOTE```
 - Accuracy score was 0.662 which means that the model was correct 66.2% of the time.
