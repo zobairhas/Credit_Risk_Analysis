@@ -16,28 +16,29 @@ I oversampled data via RandomOverSample and SMOTE algorithms using credit card c
 ## Summary of Results
 
 - Accuracy score of Random Oversampling using ```RandomOVersampler```
+- Accuracy score 
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125433-788102ba-2d4f-4560-9ccb-615c7c9ceb5f.png)
 
 - Accuracy score of SMOTE Oversampling using ```SMOTE```
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125438-5a1c4626-e965-4e2d-9b09-e7a30e95c7cd.png)
 
 - Accuracy score of Undersampling using ```ClusterCentroids```
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125444-69d38603-a017-49eb-baf7-dd2513468cde.png)
 
 - Accuracy score of Combination (Over and Under) Sampling using ```SMOTEENN```
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125448-b2deea13-e11d-4a19-bc46-efb475cc108e.png)
 
 - Accuracy score of ML model using ```BalancedRandomForestClassifier```
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125457-6b63ff60-5105-4990-9ae2-5ed8b9032785.png)
 
 - Accuracy score of ML model using ```EasyEnsembleClassifier```
 
-<img>
+![image](https://user-images.githubusercontent.com/44425379/166125452-49a3a3b4-6eee-4a25-ab51-edb6adb6332a.png)
 
 ## Recommendations
 
