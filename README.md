@@ -48,4 +48,4 @@ I oversampled data via RandomOverSample and SMOTE algorithms using credit card c
 ## Recommendations
 
  - Overall, the models had pretty average accuracy scores. The clear winner was the ML model using ```EasyEnsembleClassifier```. 
- - Accuracy score is much higher compared to any of the other models. 
+ - The Accuracy score was much higher compared to any of the other models. 
